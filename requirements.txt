@@ -1,0 +1,7 @@
+langchain
+openai
+faiss-cpu
+pdfplumber
+tiktoken
+streamlit
+google-generativeai
