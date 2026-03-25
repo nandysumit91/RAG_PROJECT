@@ -9,7 +9,7 @@ from langchain_community.vectorstores import FAISS
 # -------------------------------
 # 🔑 SET YOUR GEMINI API KEY HERE
 # -------------------------------
-genai.configure(api_key="AIzaSyAew3WSN3AkRz0HKy1vm6mBmAOS_E3niHE")
+genai.configure(api_key="ADD YOUR GEMINI API")
 
 # -------------------------------
 # 1. Extract text from PDF
